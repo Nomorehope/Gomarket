@@ -20,5 +20,5 @@ func GetProductByID(ctx *gin.Context) {
 }
 
 func UpdateProduct(ctx *gin.Context) {
-	id := ctx.Param("id")
+
 }
